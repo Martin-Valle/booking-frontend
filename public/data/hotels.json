@@ -1,0 +1,26 @@
+[
+  {
+    "id": "h1",
+    "name": "Hotel Centro Quito",
+    "city": "Quito",
+    "price": 68,
+    "rating": 8.9,
+    "reviews": 1120,
+    "freeCancellation": true,
+    "breakfast": true,
+    "distanceCenterKm": 0.8,
+    "image": "https://images.unsplash.com/photo-1551776235-dde6d4829808"
+  },
+  {
+    "id": "h2",
+    "name": "Mar Azul Boutique",
+    "city": "Manta",
+    "price": 74,
+    "rating": 9.1,
+    "reviews": 420,
+    "freeCancellation": false,
+    "breakfast": true,
+    "distanceCenterKm": 1.2,
+    "image": "https://images.unsplash.com/photo-1501117716987-c8e0bf4f2fbe"
+  }
+]

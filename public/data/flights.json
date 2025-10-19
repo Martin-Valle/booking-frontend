@@ -1,0 +1,4 @@
+[
+  { "id":"f1","from":"Quito (UIO)","to":"Madrid (MAD)","price":1172,"duration":"10h 20m","stops":0,"airline":"Iberia","time":"19:15 - 11:35" },
+  { "id":"f2","from":"Quito (UIO)","to":"Madrid (MAD)","price":1068,"duration":"12h 15m","stops":1,"airline":"Avianca","time":"05:05 - 23:20" }
+]
